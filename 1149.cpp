@@ -1,7 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
-int m,w[10002];
+int m,w[100002];
 int main(){
 	int t;
 	cin>>t;
@@ -13,11 +13,9 @@ int main(){
 		sort(w,w+n);
 		int ans=0,s=0,e=n-1;
 		while(s<=e){
-			if(w[e]+w[s]<=m){
-				e--;
+			if(w[e]+w[s]<=m)
 				s++;
-			}
-			else e--;
+			e--;
 			ans++;
 		}
 		cout<<ans<<endl;
