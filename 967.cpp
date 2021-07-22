@@ -8,7 +8,7 @@ bool checkprime(int n){
 		return 1;
 	if(isprime[n]==2)
 		return 0;
-	for(int i=2;i<n/2+1;i++)
+	for(int i=2;i<n/2;i++)
 		if(n%i==0){
 			isprime[n]=2;
 			return 0;
@@ -25,6 +25,10 @@ int leng(int n){
 	return r;
 }
 int checkcircle(int n){
+	if(iscircle[n]==1)
+		return 1;
+	if(iscircle[n]==2)
+		return 0;
 	int l=leng(n);
 	int c[9];
 	c[0]=n;
@@ -48,15 +52,13 @@ int checkcircle(int n){
 }
 int main(){
 	int a,b;
-	while(cin>>a&&a!=-1){
-		cin>>b;
+	while(scanf("%d",&a)&&a!=-1){
+		scanf("%d",&b);
 		int cnt=0;
 		for(int i=a;i<=b;i++){
-			if(iscircle[i]==1)
-				cnt++;
-			if(iscircle[i]==0){
-				cnt+=checkcircle(i);
-			}
+			cnt+=checkcircle(i);
+			if(checkcircle(i))
+				cout<<i<<",";
 		}
 		if(!cnt)
 			printf("No Circular Primes.\n");

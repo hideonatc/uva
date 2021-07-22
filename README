@@ -19,7 +19,15 @@ X	714: Copying Books
 V	455: Periodic Strings
 V	490: Rotating Sentences
 V	11389: The Bus Driver Problem
-	967: Circular
-	378: Intersecting Lines 
-	1632: Alibaba
-	240: Variable Radix Huffman Encoding
+?	967: Circular
+X	378: Intersecting Lines 
+X	1632: Alibaba
+X	240: Variable Radix Huffman Encoding
+2015/12/22
+V	11332: Summing Digits
+V	10487: Closest Sums
+V	706: LC-Display
+	10382: Watering Grass
+	748: Exponentiation
+	10533: Digit Primes
+	11003: Boxes
