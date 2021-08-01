@@ -8,7 +8,7 @@ README
 
 ## Problem Set
 
-># 2015/03/24
+>**2015/03/24**
 >>V	591: Box of Bricks  
 >>V	10922: 2 the 9s  
 >>V	409: Exeuses, Excuses!  
@@ -17,7 +17,7 @@ README
 >>X	242: Stamps and Envelope Size  
 >>X	302: John's trip  
 
->2015/05/26
+>**2015/05/26**
 >>V	1585: Score  
 >>V	10474: Where is the Marble?  
 >>V	10908: Largest Square  
@@ -26,7 +26,7 @@ README
 >>X	10369: Arctic Network  
 >>X	714: Copying Books  
 
->2015/10/26
+>**2015/10/26**
 >>V	455: Periodic Strings  
 >>V	490: Rotating Sentences  
 >>V	11389: The Bus Driver Problem  
@@ -35,7 +35,7 @@ README
 >>X	1632: Alibaba  
 >>X	240: Variable Radix Huffman Encoding  
 
->2015/12/22
+>**2015/12/22**
 >>V	11332: Summing Digits  
 >>V	10487: Closest Sums  
 >>V	706: LC-Display  
@@ -44,7 +44,7 @@ README
 >>V	10533: Digit Primes  
 >>X	11003: Boxes  
 
->2016/03/22
+>**2016/03/22**
 >>V	11764: Jumping Mario  
 >>V	10082: WERTYU  
 >>V	10062: Tell me the frequencies!  
@@ -53,7 +53,7 @@ README
 >>X	10026: Shoemaker's Problem  
 >>X	10032: Tug of War  
 
->2016/05/24
+>**2016/05/24**
 >>V	11942: Lumberjack Sequencing  
 >>V	499: What's The Frequency, Kenneth?  
 >>V	948: Fibonaccimal Base  
@@ -62,7 +62,7 @@ README
 >>X	10025: The ? 1 ? 2 ? ... ? n = k problem  
 >>X	11472: Beautiful Numbers  
 
->2016/10/04
+>**2016/10/04**
 >>V	11192: Group Reverse  
 >>X	1587: Box  
 >>V	10415: Eb Alto Saxophone Player  
@@ -71,7 +71,7 @@ README
 >>X	439: Knight Moves  
 >>X	11624: Fire!  
 
->2016/12/20
+>**2016/12/20**
 >>V	11364: Parking  
 >>V	10242: Fourth Point!!  
 >>V	865: Substitution Cypher  
