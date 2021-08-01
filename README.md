@@ -1,10 +1,10 @@
 README
 ## NOTICE
 
-1. ```c++ getline()```用法 記得吃掉換行
+1. ```getline()```用法 記得吃掉換行
 2. 注意質數表產生效率
 3. 注意UVA的輸出格式 最後一筆測資的換行 每行尾的空白
-4. double float 有時候輸出會有莫名其妙誤差 找不到bug try add 1e-8 to the answer
+4. ```double``` ```float``` 有時候輸出會有莫名其妙誤差 找不到bug try add ```1e-8``` to the answer
 
 ## Problem Set
 
