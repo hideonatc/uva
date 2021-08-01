@@ -9,13 +9,13 @@ README
 ## Problem Set
 
 >2015/03/24
->>V	591: Box of Bricks	
->>V	10922: 2 the 9s	
->>V	409: Exeuses, Excuses!	
+>>V	591: Box of Bricks  
+>>V	10922: 2 the 9s  
+>>V	409: Exeuses, Excuses!  
 >>V	11538: Chess Queen  
 >>X	534: Frogger  
->>X	242: Stamps and Envelope Size	
->>X	302: John's trip	
+>>X	242: Stamps and Envelope Size  
+>>X	302: John's trip  
 >2015/05/26
 >>V	1585: Score
 >>V	10474: Where is the Marble?
