@@ -79,3 +79,12 @@ README
 >>X	10066: The Twin Towers  
 >>X	10721: Bar Codes  
 >>X	11401: Triangle Counting  
+
+>**2020/10/20**
+>>V 10050: Hartals  
+>>V 458: The Decoder  
+>>V 389: Basically Speaking  
+>>V 10267: Graphical Editor  
+>>X 615: Is It A Tree?  
+>>X 1746: String Theory  
+>>X 165: Stamps  
