@@ -88,3 +88,22 @@ README
 >>X 615: Is It A Tree?  
 >>X 1746: String Theory  
 >>X 165: Stamps  
+
+>**2020/12/22**
+>>11689: Soda Surpler  
+>>10188: Automated Judge Script  
+>>10415: Eb Alto Saxophone Player  
+>>11536: Smallest Sub-Array  
+>>11960: Divisor Game  
+>>12319: Edgetown’s Traffic Jams  
+>>11633: Food portion size  
+
+>**2021/03/23**
+>>12019: Doom's Day Algorithm  
+>>10921: Find the Telephone  
+>>725: Division  
+>>11489: Integer Game  
+>>12218: An Industrial Spy  
+>>11495: Bubbles and Buckets  
+>>709: Formatting Text  
+
