@@ -5,6 +5,7 @@ README
 2. 注意質數表產生效率
 3. 注意UVA的輸出格式 最後一筆測資的換行 每行尾的空白
 4. ```double``` ```float``` 有時候輸出會有莫名其妙誤差 找不到bug try add ```1e-8``` to the answer
+5. 理論上題目都是從簡單到難 但偶爾會有例外
 
 ## Problem Set
 
@@ -90,20 +91,20 @@ README
 >>X 165: Stamps  
 
 >**2020/12/22**
->>11689: Soda Surpler  
->>10188: Automated Judge Script  
->>10415: Eb Alto Saxophone Player  
->>11536: Smallest Sub-Array  
->>11960: Divisor Game  
->>12319: Edgetown’s Traffic Jams  
->>11633: Food portion size  
+>>V 11689: Soda Surpler  
+>>V 10188: Automated Judge Script  
+>>V 10415: Eb Alto Saxophone Player  
+>>X 11536: Smallest Sub-Array  
+>>X 11960: Divisor Game  
+>>X 12319: Edgetown’s Traffic Jams  
+>>X 11633: Food portion size  
 
 >**2021/03/23**
->>12019: Doom's Day Algorithm  
->>10921: Find the Telephone  
->>725: Division  
->>11489: Integer Game  
->>12218: An Industrial Spy  
->>11495: Bubbles and Buckets  
->>709: Formatting Text  
+>>V 12019: Doom's Day Algorithm  
+>>V 10921: Find the Telephone  
+>>V 725: Division  
+>>V 11489: Integer Game  
+>>X 12218: An Industrial Spy  
+>>X 11495: Bubbles and Buckets  
+>>X 709: Formatting Text  
 
