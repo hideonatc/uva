@@ -112,7 +112,10 @@ bool by12(string n){
 int main(){
 	int n;
 	cin>>n;
+	bool f=1;
 	while(n--){
+		if(f)f=0;
+		else cout<<endl;
 		string m;
 		cin>>m;
 		int t;
@@ -178,8 +181,8 @@ int main(){
 				}
 		}
 		if(ans)
-			cout<<m<<" - Wonderful."<<endl;
+			cout<<m<<" - Wonderful.";
 		else
-			cout<<m<<" - Simple."<<endl;
+			cout<<m<<" - Simple.";
 	}
 }

@@ -74,12 +74,14 @@ int main(){
 	for(int i=0;i<99999;i++)
 		rp[i]=0;
 	init();
+	bool f=1;
 	while(cin>>n&&n){
+		if(f)f=0;
+		else cout<<endl;
 		if(tab[n][0]==0)
 			printf("There are no solutions for %d.\n",n);
 		else 
 			for(int i=0;tab[n][i]!=0;i++)
 				prt(n,i);
-		cout<<endl;
 	}
 }
